@@ -1,27 +1,25 @@
-## Student Name (or name you would preferred to be called)
+## Kaden Sanders
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
-
-- Course 2
-
-- Course 3
-
-- Course 4
+|Classes Prefix | Number | Expanded Name
+| :-------------| :------------ | :----------- |
+|**COP** | **2073** | _Intro to data science_
+|**COP** | **2034** | _Intro to programming using Python_
+|**MAC** | **2311** | _Analytic Geometry and Calculus 1_
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Magic The Gathering
 
-- Thing 2
+- The outdoors
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Mechanical Engineering
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/23
